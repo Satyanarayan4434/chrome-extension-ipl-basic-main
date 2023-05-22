@@ -6,6 +6,7 @@
     "author": "Satyanarayan Sen",
     "action": {
         "default_popup": "index.html",
-        "default_title": "IPL Matches Details"
+        "default_title": "IPL Matches Details",
+        "default_icon": "favicon.png"
     }
 }
