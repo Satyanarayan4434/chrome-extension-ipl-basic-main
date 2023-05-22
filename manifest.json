@@ -1,11 +1,11 @@
 {
-    "name": "My Chrome Extension",
+    "name": "IPL Matches Details",
     "version": "1.0.0",
     "description": "Best extension in the world",
     "manifest_version": 3,
-    "author": "Deevankshu Garg",
+    "author": "Satyanarayan Sen",
     "action": {
         "default_popup": "index.html",
-        "default_title": "My Chrome Extension"
+        "default_title": "IPL Matches Details"
     }
 }
