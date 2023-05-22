@@ -15,9 +15,9 @@ async function getMatchData() {
 
       console.log({ relevantData });
 
-      document.getElementById("matches").innerHTML = relevantData.map((match) => `<li>${match} </li>`).join("");
+    //   document.getElementById("matches").innerHTML = relevantData.map((match) => `<li>${match} </li>`).join("");
 
-      return relevantData;
+    //   return relevantData;
     })
     .catch((e) => console.log(e));
 }
